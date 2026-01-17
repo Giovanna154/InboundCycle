@@ -1,13 +1,3 @@
-Para o repositório InboundCycle, notei que ele contém um arquivo comprimido (.zip). Como o nome remete ao conceito de Inbound Marketing e Ciclo de Vendas, o texto deve refletir essa temática de automação ou funil de vendas.
-
-Aqui estão as sugestões:
-
-1. Para a Descrição do Repositório (About)
-"Projeto focado em estratégias de Inbound Marketing e automação de ciclos de vendas, explorando o funil de conversão e a jornada do cliente."
-
-2. Sugestão de README.md
-Markdown
-
 # 🎡 InboundCycle
 
 O **InboundCycle** é um projeto dedicado a aplicar os conceitos de Inbound Marketing em uma estrutura técnica. O objetivo é demonstrar como atrair, converter e encantar clientes através de um ciclo contínuo e automatizado.
